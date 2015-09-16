@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 海八德經
+#+DATE: 2015-08-30 19:29:26.345769
+#+PROPERTY: JUAN 0
