@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:27.290975
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:25
 #+TITLE: 海八德經
 #+PROPERTY: CBETA_ID T01n0035
 #+PROPERTY: ID KR6a0035
@@ -98,5 +98,5 @@ No. 35 [No. 26(37), Nos. 33, 34]¶
 佛說海八德經¶
 
 ¶
-譯，為失本者，藏中錯¶
+，為失本者，藏中錯¶
 為羅什譯耳。
